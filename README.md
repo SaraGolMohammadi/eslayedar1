@@ -1,3 +1,2 @@
-# eslayedar1
- [Mug Luxury](https://saragolmohammadi.github.io/mag/)
+ [eslayedar](https://saragolmohammadi.github.io/eslayedar1/)
 پروژه اسلایدر حیوانات: طراحی خلاقانه با افکت‌های تصویری جذاب. این اسلایدر شامل تصاویر حیوانات با قابلیت نمایش پیش‌نمایش تصاویر کوچک، پیمایش بین اسلایدها، و متن‌های توضیحی است
